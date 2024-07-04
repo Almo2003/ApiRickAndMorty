@@ -4,7 +4,7 @@
     <ion-header>
       <ion-toolbar color="success">
         <!-- Título de la barra de herramientas -->
-        <ion-title class="title-font">The Rick and Morty API</ion-title>
+        <ion-title class="title-font">The Rick and Morty BY: YULIAN - AURA - GABRIELA</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content>
@@ -58,6 +58,10 @@ export default defineComponent({
   font-weight: bold;
   font-style: italic;
   font-size: 20px;
-  color: white;
+  color: rgb(25, 26, 25);
+  text-align: center;
+}
+.toolbar.container{
+  background-color: aqua;
 }
 </style>

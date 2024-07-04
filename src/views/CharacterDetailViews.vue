@@ -73,12 +73,12 @@ export default {
   font-style: italic;
   font-size: 25px;
   /* Ajusta el tamaño del título según tus preferencias */
-  color: white;
+  color: rgb(63, 243, 213);
   /* Cambia el color del texto a blanco */
 }
 
 .custom-back-button {
-  border: 1px solid white;
+  border: 1px solid rgb(238, 243, 245);
   /* Ajusta el grosor del borde */
   border-radius: 15px;
   /* Ajusta el radio de borde para hacerlo más pequeño y redondeado */

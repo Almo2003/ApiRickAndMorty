@@ -56,6 +56,7 @@ export default defineComponent({
 /* Estilos para ajustar el tamaño de la tarjeta y el avatar */
 .character-list {
   background-size: cover;
+  background-color: rgb(16, 238, 219);
 }
 
 .character-card {
@@ -69,6 +70,10 @@ export default defineComponent({
   /* Establece el contenedor de tarjeta como un contenedor flexible */
   align-items: center;
   /* Centra verticalmente los elementos dentro del contenedor flexible */
+  background-color: aquamarine;
+}
+.character-card:hover{
+  color: rgb(13, 14, 14);
 }
 
 .character-avatar {

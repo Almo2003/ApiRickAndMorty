@@ -12,7 +12,7 @@
       <character-details :character="character" />
       <!-- Botón de regreso -->
     </ion-content>
-    <ion-button @click="goToHome" color="primary">Regresar</ion-button>
+    <ion-button @click="goToHome" color="primary">Back</ion-button>
   </ion-page>
 </template>
 
